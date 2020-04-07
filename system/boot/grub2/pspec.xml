@@ -91,7 +91,7 @@
 
     <History>
         <Update release="17">
-            <Date>2020-04-06</Date>
+            <Date>2020-04-07</Date>
             <Version>2.04</Version>
             <Comment>Add a target, update UI and code style</Comment>
             <Name>Ercan Ersoy</Name>
